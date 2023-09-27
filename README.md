@@ -15,5 +15,5 @@ Criação inspirada no Social Tree original, para a mãe de um amigo.
 
 - HTML5
 - CSS
-- JavaScript
+- Git Hub
 
